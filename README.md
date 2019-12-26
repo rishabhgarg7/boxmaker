@@ -1,2 +1,0 @@
-# boxmaker
-Created with CodeSandbox
